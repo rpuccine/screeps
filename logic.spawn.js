@@ -88,7 +88,7 @@ var logicSpawn = {
 	var maxHarvester = 2;
 	var maxRunner = 1;
 	var maxUpgrader = 2;
-	var maxBuilder = 2;
+	var maxBuilder = 1;
 	var maxRepair = 1;
 
 	var spawns = room.find(FIND_MY_SPAWNS);
